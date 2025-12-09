@@ -2,8 +2,8 @@
 
 int main() {
     int idade, matricula;
-float altura;
-char nome[50]
+    float altura;
+    char nome[50]
 
 printf ("Digite sua idade: \n");
 scanf ("%d", &idade);
