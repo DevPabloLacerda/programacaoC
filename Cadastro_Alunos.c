@@ -18,7 +18,7 @@ printf ("Digite sua matricula: \n")
 scanf ("%d", &matricula);
 
 printf ("Nome do aluno: %s, - matricula: %d\n", nome, matricula);
-printf ("Idade: %d, - altura: %¨f", idade, altura);
+printf ("Idade: %d, - altura: %f", idade, altura);
 
 return 0;
 
